@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo José Andrés.</h1>
+<h1 align="center">Hola 👋, soy José Andrés.</h1>
 <h3 align="center">Estoy empezando a programar. Quiero de ser un programador Backend.</h3>
 
 - 💬 Ask me about **JavaScript, HTML**
