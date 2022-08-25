@@ -17,7 +17,7 @@
 ## 👉 Sobre mí
 ¡Hola! Mi nombre es José Andrés y soy un talento disponible. Soy estudiante de 7mo ciclo de la carrera de publicidad y marketing digital en Toulouse Lautrec.
 
-<h3 align="left">Contácteme conmigo:</h3>
+<h3 align="left">Contáctese conmigo:</h3>
 
 📫 <a href="mailto:elcorreoquequieres@correo.com">josell.93@gmail.com</a>
 
